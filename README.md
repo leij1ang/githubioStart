@@ -1,6 +1,6 @@
 # githubioStart
 利用github.io和github钩子展示前端repository项目
-###  首先你得有一台部署服务器
+###  首先你得有一台部署服务器（liunx）
 服务器的租赁此处不展开讨论
 
 服务器上要有git客户端、node.js或其他后台语言，此处将以nodejs举例
