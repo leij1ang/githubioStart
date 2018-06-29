@@ -49,6 +49,6 @@
 
     执行以下几个步骤
 
-    1. `sh init.sh`根据提示输入你的前端仓库地址，webhook端口号
+    1. `sh init.sh`根据提示输入你的前端仓库名称，用户名（注意大小写），webhook端口号
     2. 根据需求打开deploy.sh修改脚本，此项目以[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)部署流程为例为例
     3. `node deploy.js > deploy.log 2>deployErr.log &`监听hook
