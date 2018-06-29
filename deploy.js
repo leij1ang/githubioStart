@@ -12,7 +12,7 @@ var deployServer = http.createServer(function(request, response) {
   if (request.url.search(/deploy\/?$/i) > 0) {
 
     var commands = [
-      'sh /root/deploy/deploy.sh'
+      'sh ./deploy.sh'
     ].join(' && ')
 
     exec(commands, function(err, out, code) {
