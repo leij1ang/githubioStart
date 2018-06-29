@@ -27,7 +27,7 @@
     选择 `Add SSH key`保存
 3. github webhook
 
-    进入`https://github.com/leij1ang/${前端项目仓库}/settings/hooks/new`
+    进入`https://github.com/${前端项目仓库}/settings/hooks/new`
 
     选择`New webhook`
     
