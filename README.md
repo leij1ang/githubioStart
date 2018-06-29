@@ -42,7 +42,7 @@
 
     新建一个仓库，名称为`${用户名}.github.io`
 
-    进入`https://github.com/leij1ang/${用户名}.github.io/settings`，找到`GitHub Pages`
+    进入`https://github.com/${用户名}.github.io/settings`，找到`GitHub Pages`
 
     source选择`master branch`后点击保存
 5.  将此项目拷贝至服务器上
