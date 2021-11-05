@@ -1,3 +1,6 @@
+# 哈，github也有免费的ci/cd啦，此项目就此退休，拜拜
+
+
 # githubioStart
 利用github.io和github钩子展示前端repository项目
 ###  首先你得有一台部署服务器（linux）
